@@ -1,0 +1,1 @@
+БЫСТРЫЙ Главный сервер 1 туннель;https://dotwireapi.loca.lt/api;;;МЕДЛЕННЫЙ Главный сервер 2 туннель;https://073d5ccf-bcab-4090-951b-191e6144c126.tunnel4.com/api;;;ЛОКАЛЬНАЯ СЕТЬ ПК;https://localhost:5001/api;;;Локальная сеть Kronlc;http://192.168.199.43:8082/api;;;
