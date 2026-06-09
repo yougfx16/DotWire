@@ -1,1 +1,1 @@
-MAIN;http://dotwire.somee.com/backend/api;;;PC_TESTING;https://localhost:5001/api;;;
+MAIN;http://dotwire.somee.com/backend/api;;;
